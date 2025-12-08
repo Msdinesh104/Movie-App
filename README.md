@@ -1,4 +1,4 @@
-                                                                             🎬 Project Summary
+🎬 Project Summary
 
 A short, attractive intro explaining what your app does.
 
